@@ -1,3 +1,3 @@
 # SP Spatial Omics 
 
-# CellComm_and_SpotComm
+# CellComm and SpotComm
