@@ -1,3 +1,3 @@
-# SP Spatial Omics 
+## SP Spatial Omics 
 
-# CellComm and SpotComm
+## CellComm and SpotComm
