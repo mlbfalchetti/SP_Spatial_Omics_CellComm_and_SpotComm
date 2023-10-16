@@ -20,4 +20,4 @@ Prediction of intercellular communication networks using CellComm
 
 ### Google Drive (script, inputs e outputs)
 
-[link](https://drive.google.com/drive/folders/1bWrhdrVkD0umEXR8IazRC_GwESdz7v6z?usp=sharing)
+[Link](https://drive.google.com/drive/folders/1bWrhdrVkD0umEXR8IazRC_GwESdz7v6z?usp=sharing)
