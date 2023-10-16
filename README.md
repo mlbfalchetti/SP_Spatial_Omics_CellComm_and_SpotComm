@@ -18,3 +18,6 @@ Prediction of intercellular communication networks using CellComm
 
 [Link](https://protocolexchange.researchsquare.com/article/pex-1843/v1)
 
+### Google Drive (script, inputs e outputs)
+
+[link](https://drive.google.com/drive/folders/1bWrhdrVkD0umEXR8IazRC_GwESdz7v6z?usp=sharing)
